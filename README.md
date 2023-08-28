@@ -1,4 +1,4 @@
- Hi there, I’m @KoushikBarnwal👋🏾
+ Hi there, I’m Koushik Barnwal👋🏾
  
 - 💻 I’m currently working on Pacific Global Inc.
 - 👨‍💻 Aspiring Data Analytics/Business Analytics
