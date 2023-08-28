@@ -1,4 +1,5 @@
- Hi, I’m @KoushikBarnwal
+ Hi there, I’m @KoushikBarnwal👋🏾
+ 
 - 💻 I’m currently working on Pacific Global Inc.
 - 👨‍💻 Aspiring Data Analytics/Business Analytics
 - 🌱 I’m currently learning Data Analytics by enhancing my knowledge of Python, SQL, POWER BI, and EXCEL.
