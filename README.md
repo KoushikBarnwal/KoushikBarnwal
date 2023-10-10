@@ -1,7 +1,7 @@
  Hi there, I’m Koushik Barnwal👋🏾
  
 - 💻 I’m currently working on Pacific Global Inc.
-- 👨‍💻 Aspiring Data Analytics/Business Analytics
+- 👨‍💻 Data Analytics/Business Analytics
 - 🌱 I’m currently learning Data Analytics by enhancing my knowledge of Python, SQL, POWER BI, and EXCEL.
 - 📫 How to reach me - You can reach me via email: koushikbarnwal@gmail.com or Linkedin: www.linkedin.com/in/koushik-barnwal-3721461ab
 
